@@ -1,42 +1,23 @@
 body {
-    font-family: 'Courier New';
+    text-align: center;
+    font-family: Arial;
+    background-color: #ffe6f0;
 }
 
-g {
-    stroke: black;
-    stroke-width: 3px;
+h1 {
+    color: #ff4d88;
 }
 
-.face {
-    fill:yellow;
+button {
+    padding: 12px 20px;
+    font-size: 16px;
+    background-color: #ff4d88;
+    color: white;
+    border: none;
+    border-radius: 8px;
 }
 
-.eye {
-    fill: black;
+img {
+    margin-top: 20px;
+    border-radius: 12px;
 }
-
-.nose {
-    stroke-width: 20px;
-}
-
-.mouth {
-    stroke: black;
-    stroke-width: 20px;
-    fill: none;
-}
-#upleft {
-    fill:green;
-}
-
-#upright {
-    fill:pink;
-}
-
-#lowleft {
-    fill: orange;
-}
-
-#lowright {
-    fill: steelblue;
-}
-
